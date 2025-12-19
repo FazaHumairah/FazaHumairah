@@ -9,7 +9,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 💻 Fullstack Developer  
+- 💻 Data Science enthusiast
 - 🐍 Python & Jupyter Notebook enthusiast  
 - 📊 Interested in **Machine Learning & Data Science**  
 - 🌱 Currently learning **Next.js, AI & ML Models**  
