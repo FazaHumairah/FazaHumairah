@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Fullstack+Developer;Python+%7C+Jupyter+Notebook+Lover;Machine+Learning+%26+Data+Science;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=;Python+%7C+Jupyter+Notebook+Lover;Machine+Learning+%26+Data+Science;Always+Learning+New+Things" />
 </p>
 
 ---
