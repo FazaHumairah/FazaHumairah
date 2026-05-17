@@ -3,9 +3,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=;Python+%7C+Jupyter+Notebook+Lover;Machine+Learning+%26+Data+Science" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FazaHumairah&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" />
 </p>
-
 ---
 
 ## 👨‍💻 About Me
