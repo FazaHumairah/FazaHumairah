@@ -29,13 +29,6 @@
 ### 🗄️ Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat&logo=postgresql)
 
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FazaHumairah&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
