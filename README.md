@@ -13,7 +13,6 @@
 - 🐍 Python & Jupyter Notebook enthusiast  
 - 📊 Interested in **Machine Learning & Data Science**  
 - 🌱 Currently learning **Next.js, AI & ML Models**  
-- 🚀 Love building **open-source & data-driven projects**
 
 ---
 
