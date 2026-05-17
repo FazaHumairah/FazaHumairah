@@ -2,11 +2,6 @@
   Hi there 👋 I'm Paja
 </h1>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FazaHumairah&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" />
-</p>
----
-
 ## 👨‍💻 About Me
 - 💻 Data Science enthusiast
 - 🐍 Python & Jupyter Notebook enthusiast  
