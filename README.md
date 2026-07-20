@@ -10,25 +10,15 @@
 
 ---
 
-## 🔧 Tech Stack
+## 🔧 Tech Stack (Auto-Generated)
 
-### 🌐 Web Development
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/React-black?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=nextdotjs)
-![Express](https://img.shields.io/badge/Express.js-black?style=flat&logo=express)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=pie&theme=dark&hide_border=true" alt="Top Languages" width="450"/>
+</p>
 
-### 🧠 Data Science & ML
-![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python)
-![Jupyter](https://img.shields.io/badge/Jupyter-black?style=flat&logo=jupyter)
-![Pandas](https://img.shields.io/badge/Pandas-black?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-black?style=flat&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-black?style=flat&logo=scikitlearn)
-
-### 🗄️ Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat&logo=postgresql)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=USERNAME&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="450"/>
+</p>
 
 ---
 
@@ -42,6 +32,3 @@
 
 ## 🔗 Connect with Me
 - 💼 LinkedIn: https://www.linkedin.com/in/faza-humairah-980a44218/
-
----
-
