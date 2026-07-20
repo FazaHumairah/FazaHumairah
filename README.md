@@ -10,14 +10,14 @@
 
 ---
 
-## 🔧 Tech Stack (Auto-Generated)
+## 🔧 Tech Stack 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=pie&theme=dark&hide_border=true" alt="Top Languages" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FazaHumairah&layout=pie&theme=dark&hide_border=true" alt="Top Languages" width="450"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=USERNAME&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/?username=FazaHumairah&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="450"/>
 </p>
 
 ---
